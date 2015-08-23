@@ -1,0 +1,27 @@
+---
+title: "About"
+author: "Elin Waring"
+date: "Sunday, August 24, 2015"
+output: html_document
+---
+
+# Does random assignment really work?
+
+Randomized controlled trials are often called the "gold standard" of causal analysis. This is because if we randomize assignment of participants to groups --- the simplest is a treatment group and a control group -- means that when we look at the results we do not have to worry about whether other variables could be either making us see a relationship that is not there or hiding a relationship that is there.  (Of course that assumes that everything goes perfectly, and you don't have problems like different rates of dropping out of the study for the two groups). 
+
+The claim of random assignment is that it controls for all other variables--measured and unmeasured, that you thought of and that you never thought of--through the power of randomization.
+
+This is a very powerful claim. This application lets you see what happens when we use random assignment.
+Most likely your instructor will give you some instructions about what to do.
+However, one warning is that just doing the random assignment one time is not really enough to show that it does or does not work. 
+
+Of course you could also do a mathematical proof that on average over all possible randomizations random assignment eliminates spurious relationships, but sometimes collecting your own data is a lot more interesting.
+
+#### The data
+
+The 2538 person sample is the complete sample of respondents to the 2014 General Social Survey. The extract of selecte  variables was downloaded from [the GSS Data Explorer at the National Opinion Research Center (NORC)](https://gssdataexplorer.norc.org). The 250 and 100 person samples are random samples from that larger group. The variables were picked to give a mix of interval and nominal examples of the kinds of variables that we usually worry most about. THe GSS has so many interesting variables that you could download your own data set and see if randomization works for it.
+
+Before you start, think for a minute about why the size of the initial sample might be important to think about.
+
+
+

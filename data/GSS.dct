@@ -1,0 +1,10 @@
+infile dictionary {
+    _column(1)    numeric                               YEAR   %11f  "Gss year for this respondent                       "
+   _column(12)    numeric                                ID_   %11f  "Respondent id number"
+   _column(23)    numeric                                AGE   %11f  "Age of respondent"
+   _column(34)    numeric                               EDUC   %11f  "Highest year of school completed"
+   _column(45)    numeric                                SEX   %11f  "Respondents sex"
+   _column(56)    numeric                               RACE   %11f  "Race of respondent"
+   _column(67)    numeric                              RELIG   %11f  "Rs religious preference"
+   _column(78)    numeric                             ZODIAC   %11f  "Respondents astrological sign"
+}
