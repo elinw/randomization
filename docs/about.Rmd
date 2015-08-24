@@ -19,9 +19,9 @@ Of course you could also do a mathematical proof that on average over all possib
 
 #### The data
 
-The 2538 person sample is the complete sample of respondents to the 2014 General Social Survey. The extract of selecte  variables was downloaded from [the GSS Data Explorer at the National Opinion Research Center (NORC)](https://gssdataexplorer.norc.org). The 250 and 100 person samples are random samples from that larger group. The variables were picked to give a mix of interval and nominal examples of the kinds of variables that we usually worry most about. THe GSS has so many interesting variables that you could download your own data set and see if randomization works for it.
+The 2538 person sample is the complete sample of respondents to the 2014 General Social Survey. The extract of selected  variables was downloaded from [the GSS Data Explorer at the National Opinion Research Center (NORC)](https://gssdataexplorer.norc.org). The 250 and 100 person samples are random samples from that larger group. The variables were picked to give a mix of interval and nominal examples of the kinds of variables that we usually worry most about. THe GSS has so many interesting variables that you could download your own data set and see if randomization works for it.
 
-Before you start, think for a minute about why the size of the initial sample might be important to think about.
+Before you start, think for a minute about why the size of the initial sample might be important to consider.
 
 
 
